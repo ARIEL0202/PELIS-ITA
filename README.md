@@ -893,10 +893,6 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/WbgDddSW/21TV.png" group-title="ARGENTINA", 21 TV POSADAS
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-
-
-
-
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/VkNkBY1D/4esquel.png" group-title="ARGENTINA", CANAL 4 ESQUEL
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
 
@@ -914,9 +910,6 @@ https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w559086041.m3u8
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/Hk37dZWP/c10cordoba.png" group-title="ARGENTINA", CANAL 10 CÓRDOBA
 https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w651528776_b1000000_slen.m3u8
-
-#EXTINF:-200 tvg-logo="https://i.postimg.cc/rsGNJy8h/canal6digital.gif" group-title="ARGENTINA", CANAL 6 POSADAS
-https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/7hcwK4m2/C9CRIV.png" group-title="ARGENTINA", CANAL 9 COMODORO RIVADAVIA
 https://live.canalnueve.tv/canal.m3u8
@@ -950,12 +943,6 @@ https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 
 #EXTINF:-203 tvg-logo="https://i.postimg.cc/RhRbLkfJ/amertucuman.png" group-title="ARGENTINA", AMÉRICA TUCUMÁN
 http://45.6.4.154/americatuc/vivo.m3u8
-
-#EXTINF:-203 tvg-logo="https://i.postimg.cc/d3q535Xs/c10tucuman.png" group-title="ARGENTINA", CANAL 10 TUCUMÁN
-https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1616016840&h=dbb7e2e2f5c2cbc35cc0e9e0c668404c
-
-#EXTINF:-203 tvg-logo="https://i.postimg.cc/ncr1W9fP/x24tucuman.jpg" group-title="ARGENTINA", X24 TUCUMÁN
-https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
 
 #EXTINF:-204 tvg-logo="https://i.postimg.cc/G2S4T2g4/9link.png" group-title="ARGENTINA", CANAL 9 RESISTENCIA
 http://www.coninfo.net:1935/9linklive/live/chunklist_w1642129274.m3u8
@@ -992,6 +979,9 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 
 #EXTINF:-213 tvg-logo="https://i.postimg.cc/bN24Mwbp/chacotv.png" group-title="ARGENTINA", CHACO TV
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1837024863.m3u8
+
+
+
 
 #EXTINF:-214 tvg-logo="https://i.postimg.cc/BtW7s2Ds/c13sl.png" group-title="ARGENTINA", CANAL 13 SAN LUÍS
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1940570986_b581072.m3u8
