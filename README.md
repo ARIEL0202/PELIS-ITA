@@ -980,20 +980,8 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 #EXTINF:-213 tvg-logo="https://i.postimg.cc/bN24Mwbp/chacotv.png" group-title="ARGENTINA", CHACO TV
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1837024863.m3u8
 
-
-
-
-#EXTINF:-214 tvg-logo="https://i.postimg.cc/BtW7s2Ds/c13sl.png" group-title="ARGENTINA", CANAL 13 SAN LUÍS
-https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1940570986_b581072.m3u8
-
 #EXTINF:-215 tvg-logo="https://i.postimg.cc/8kL0B0Vz/c29quilmes.jpg" group-title="ARGENTINA", CANAL 29 QUILMES VISIÓN
 https://inliveserver.com:1936/8386/8386/playlist.m3u8
-
-#EXTINF:-216 tvg-logo="https://i.postimg.cc/XYmpqw9C/12tartagal.png" group-title="ARGENTINA", CANAL 12 TARTAGAL
-https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m3u8
-
-#EXTINF:-217 tvg-logo="https://i.postimg.cc/RhfhNz3f/lavozdetucuman.jpg" group-title="ARGENTINA", LA VOZ DE TUCUMÁN
-http://lavozdetucuman.com/lavozdetucumantv.m3u8
 
 #EXTINF:-218 tvg-logo="https://i.postimg.cc/252ZDmvS/c7jujuy.png" group-title="ARGENTINA", CANAL 7 JUJUY
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -1019,9 +1007,6 @@ https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 #EXTINF:-220 tvg-logo="https://i.postimg.cc/7LYN7Knb/c5sf1.png" group-title="ARGENTINA", CANAL 5 SANTA FÉ
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
-#EXTINF:-221 tvg-logo="https://i.postimg.cc/7LYN7Knb/c5sf1.png" group-title="ARGENTINA", CANAL 5 SANTA FÉ 2
-https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
-
 #EXTINF:-221 tvg-logo="https://i.postimg.cc/MKLmbNhq/telenordcorrientes.jpg" group-title="ARGENTINA", TELENORD CORRIENTES
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 
@@ -1040,15 +1025,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074
 #EXTINF:-230 tvg-logo="https://i.postimg.cc/6QgYXdC3/canal3formosa.jpg" group-title="ARGENTINA", CANAL 3 FORMOSA
 https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w1391664117.m3u8
 
-#EXTINF:-230 tvg-logo="https://i.postimg.cc/DZ7mmNrY/c2vh.jpg" group-title="ARGENTINA", CANAL 2 VILLA HERNANDARIAS
-https://59537faa0729a.streamlock.net/canal2hernandarias/canal2hernandarias/chunklist_w1138147341.m3u8
-
-#EXTINF:-230 tvg-logo="https://i.postimg.cc/rpNw69BG/mileniumsalta.png" group-title="ARGENTINA", MILENIUM TV SALTA
-https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
-
-#EXTINF:-230 tvg-logo="https://i.postimg.cc/1zBs73FJ/chacratv.png" group-title="ARGENTINA", CHACRA TV
-http://s8.stweb.tv:1935/chacra/live/chunks.m3u8
-
 #EXTINF:-230 tvg-logo="https://i.postimg.cc/C19wNYvf/canalrural.png" group-title="ARGENTINA", CANAL RURAL
 http://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
@@ -1064,12 +1040,6 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-270 tvg-logo="https://i.postimg.cc/d0YGm4RG/26tv.png" Group-title="NOTICIAS", CANAL 26 TV
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-270 tvg-logo="https://i.postimg.cc/rmXhCP1w/teleiariotv.png" Group-title="NOTICIAS", TELEDIARIO TV
-https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8?PlaylistM3UCL
-
-#EXTINF:-271 tvg-logo="https://i.postimg.cc/QtM90PFK/iparg.png" group-title="NOTICIAS", IP
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
-
 #EXTINF:-272 tvg-logo="https://i.postimg.cc/43xSZ6nk/cnnchile.png" group-title="NOTICIAS", CNN CHILE
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
@@ -1082,17 +1052,8 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-292 tvg-logo="https://i.postimg.cc/x8R38dsJ/russiatoday.png" group-title="NOTICIAS", RT EN ESPAÑOL
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
-#EXTINF:-293 tvg-logo="https://i.postimg.cc/CLyKxVX7/france24es.png" group-title="NOTICIAS", FRANCE 24 EN ESPAÑOL
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
-
-#EXTINF:-294 tvg-logo="https://i.postimg.cc/MHH3C4bj/euronews1.png" group-title="NOTICIAS", EURONEWS EN ESPAÑOL
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
-
 #EXTINF:-295 tvg-logo="https://i.postimg.cc/NG81tbPK/tve24.png" group-title="NOTICIAS", TVE 24H
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
-
-#EXTINF:-296 tvg-logo="https://i.postimg.cc/fWHRY9VH/milenio.png" group-title="NOTICIAS", MILENIO
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:-297 tvg-logo="https://i.postimg.cc/HWfXbRcv/adn40.png" group-title="NOTICIAS", ADN40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
@@ -1103,74 +1064,14 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-301 tvg-logo="https://i.postimg.cc/8PCkPBbp/DWES.png" group-title="OTROS PAÍSES", DW (Alemania)
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-302 tvg-logo="https://i.postimg.cc/yNf4G2w0/tvgalicia.png" group-title="OTROS PAÍSES", TV GALICIA (España)
-http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
-
 #EXTINF:-302 tvg-logo="https://i.postimg.cc/yNf4G2w0/tvgalicia.png" group-title="OTROS PAÍSES", TV GALICIA AMÉRICA (España)
 http://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8
 
 #EXTINF:-303 tvg-logo="https://i.postimg.cc/HnzQ04JW/eitb_basque.png" group-title="OTROS PAÍSES", EITB BASQUE (España)
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
-#EXTINF:-320 tvg-logo="https://i.postimg.cc/2SQC0ckx/arirangtv.png" group-title="OTROS PAÍSES", ARIRANG (Corea del Sur)
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-321 tvg-logo="https://i.postimg.cc/dtS5zw1s/nhkworld.png" group-title="OTROS PAÍSES" ,NHK WORLD JAPAN
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-
-#EXTINF:-340 tvg-logo="https://i.postimg.cc/WtRhkd8p/twch.png" group-title="NOTICIAS EN INGLÉS", THE WEATHER CHANNEL
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
-#EXTINF:-340 tvg-logo="https://i.postimg.cc/zf5bXH2q/aljazeeraeng.png" group-title="NOTICIAS EN INGLÉS", ALJAZEERA
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/VvM0k9wL/cbsn.png" group-title="NOTICIAS EN INGLÉS", CBSN
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/MTvYkS4z/cbsn8.png" group-title="NOTICIAS EN INGLÉS", CBSN NEW YORK
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c826471-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4b9a9bf2-5dc4-46b3-9790-0983793deacf&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/MHwJPdPb/cbsn6.png" group-title="NOTICIAS EN INGLÉS", CBSN LOS ANGELES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c826472-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22b39e15-4e62-43c0-b29b-e4bedbdb9db5&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/BvZ8yBy3/cbsn3.png" group-title="NOTICIAS EN INGLÉS", CBSN CHICAGO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c846042-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bac3c7b4-5aa0-43ac-919b-ab9816b340e8&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/qvsMp6n7/cbsn2.png" group-title="NOTICIAS EN INGLÉS", CBSN BOSTON
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c846043-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46d58fa7-5040-434a-8e22-022d5b01f4fe&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/7hRbTvYY/cbsn1.png" group-title="NOTICIAS EN INGLÉS", CBSN BAY ARENA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c848750-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=535b5fed-1187-433f-8fce-ff18b71320e5&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/zDhnT0Y2/cbsn9.png" group-title="NOTICIAS EN INGLÉS", CBSN PHILLY
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c84ae60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b4fa858-3cc5-48a5-9368-afdf323f3324&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/5tFcfZDS/cbsn7.png" group-title="NOTICIAS EN INGLÉS", CBSN MINESOTA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c84fc80-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1bd49d1-3102-4046-b6c7-6e87bbc09a6a&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/g22mbtYg/cbsn5.png" group-title="NOTICIAS EN INGLÉS", CBSN DENVER
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c852390-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=706b33cf-b651-4265-a932-7ae8924f5373&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/RhvV6SBB/cbsn10.png" group-title="NOTICIAS EN INGLÉS", CBSN PITTSBURGH
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c852391-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=50d49854-d658-4ea5-ba95-b033c2b0555c&userId=&serverSideAds=true
-
 #EXTINF:-341 tvg-logo="https://i.postimg.cc/G2VH4wp3/cbsn4.png" group-title="NOTICIAS EN INGLÉS", CBSN DALLAS-FT.WORTH
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8598c1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cf85fb81-bf68-4e16-9fdc-0fa8cc32cefe&userId=&serverSideAds=true
-
-#EXTINF:-341 tvg-logo="https://i.postimg.cc/cCWMvnCL/nbcnewsnow.png" group-title="NOTICIAS EN INGLÉS", NBC NEWS NOW
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b291-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e4a249a-04a3-4a0f-b14f-6675b67c77c4&userId=&serverSideAds=true
-
-#EXTINF:-342 tvg-logo="https://i.postimg.cc/JhW6rKWt/foxnews.png" group-title="NOTICIAS EN INGLÉS", FOX NEWS CHANNEL
-https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
-
-#EXTINF:-342 tvg-logo="https://i.postimg.cc/wM522kZN/cnn.png" group-title="NOTICIAS EN INGLÉS", CNN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-342 tvg-logo="https://i.postimg.cc/jdwZyBxL/newsmaxtv.png" group-title="NOTICIAS EN INGLÉS", NEWSMAX TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c70b130-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4d1f561-e31a-46a0-aa0d-b9fd0b9bfe92&userId=&serverSideAds=true
-
-#EXTINF:-342 tvg-logo="https://i.postimg.cc/cCc7wLtM/skynews.png" group-title="NOTICIAS EN INGLÉS", SKY NEWS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf5a3ac163e69f04c5b11b1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd092-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4feb1fcc-d731-4cdd-bcb3-4053f6f4b8d7&userId=&serverSideAds=true
 
 #EXTINF:-400 tvg-logo="https://i.postimg.cc/BQFZRQZs/foxmix.png" group-title="MÚSICA", PORTAL FOXMIX
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w275910026.m3u8
@@ -1274,9 +1175,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/640x360_9
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MÚSICA", STINGRAY MUSIC SOUL STORM
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/768x432_690800/chunklist.m3u8
 
-#EXTINF:-407 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MÚSICA", STINGRAY MUSIC ÉXITOS DEL MOMENTO
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray2/d7e71382-06c7-4071-bac2-bd7a19510c7f/0.m3u8
-
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/W1XBjtRL/STINGRAY_CONCIERTOS.png" group-title="MÚSICA", STINGRAY CONCIERTOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bb1260-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0734995-d0cf-4ff8-998e-187b9668e54d&userId=&serverSideAds=true
 
@@ -1316,17 +1214,11 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w11329593
 #EXTINF:-421 tvg-logo="https://i.postimg.cc/MG9PBtRr/equalplay.png" group-title="MÚSICA", CMT EQUAL PLAY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
 
-#EXTINF:-421 tvg-logo="https://i.postimg.cc/3N4b1F0T/CM4U.png" group-title="MÚSICA", COUNTRY MUSIC 4U
-https://broadcast.mytvtogo.net/countrymusic4u/countrymusic4u/playlist.m3u8
-
 #EXTINF:-421 tvg-logo="https://i.postimg.cc/KYsYgmnH/cmc.png" group-title="MÚSICA", CMC
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
 #EXTINF:-421 tvg-logo="https://i.postimg.cc/t4tmq9gb/livemusic.png" group-title="MÚSICA", LIVE MUSIC REPLAY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
-
-#EXTINF:-422 tvg-logo="https://i.postimg.cc/D06H8wGW/zappingmusic.jpg" group-title="MÚSICA", ZAPPING MUSIC
-https://zmlive.zappingtv.com/zm_free/zm.smil/chunklist_b1828000_sles.m3u8
 
 #EXTINF:-422 tvg-logo="https://i.postimg.cc/PqqWjrX3/tributovalentina.jpg" group-title="MÚSICA", RADIO TRIBUTO VALENTINA
 https://tvstreaming.cl:1936/8124/8124/chunklist_w436967250.m3u8?WebM3UCL
@@ -1346,23 +1238,11 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?
 #EXTINF:-428 tvg-logo="https://i.postimg.cc/FKsHCYrR/canal38.jpg" group-title="MÚSICA", CANAL 38
 https://rtmp.info/canal38/envivo/chunklist_w1467177433.m3u8
 
-#EXTINF:-429 tvg-logo="https://i.postimg.cc/NF1tjtsS/eurolatina.png" group-title="MÚSICA", EUROLATINA
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
-
 #EXTINF:-429 tvg-logo="https://i.postimg.cc/529gzbVw/latido.jpg" group-title="MÚSICA", LATIDO TV
 https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/1280x720_2890800/index.m3u8
 
-#EXTINF:-430 tvg-logo="https://i.postimg.cc/c4yY9BVL/mascumbia.jpg" group-title="MÚSICA", MÁS CUMBIA TV
-https://live.siete.us:19360/mascumbiatvonline/mascumbiatvonline.m3u8
-
-#EXTINF:-431 tvg-logo="https://i.postimg.cc/NMtqCV7x/toplatino.png" group-title="MÚSICA",TOP LATINO
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-
 #EXTINF:-432 tvg-logo="https://i.postimg.cc/SRjZg75r/orbitatv.png" group-title="MÚSICA", ÓRBITA TV
 https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist.m3u8
-
-#EXTINF:-433 tvg-logo="https://i.postimg.cc/DZhQWdnZ/tvexitos.jpg" group-title="MÚSICA", TV ÉXITOS
-http://siglo21.dnsalias.com:8080/mylive/tvexitos/tracks-v1a1/mono.m3u8
 
 #EXTINF:-434 tvg-logo="https://i.postimg.cc/ryPd3C3r/videorola.png" group-title="MÚSICA", VIDEOROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
@@ -1385,20 +1265,8 @@ http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-438 tvg-logo="https://i.postimg.cc/kGzv5r4r/tele_mas.png" group-title="MÚSICA", TELE MÁS
 https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 
-#EXTINF:-439 tvg-logo="https://i.postimg.cc/wMpNvh8V/retrochannel.jpg" group-title="MÚSICA", THE RETRO CHANNEL
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-
-#EXTINF:-439 tvg-logo="https://i.postimg.cc/jd2Yh0tr/mvstv.png" group-title="OTROS PAÍSES", MVS TV
-https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
-
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/VkfLzXN7/tvlatina.jpg" group-title="OTROS PAÍSES", TV LATINA
 https://master.tucableip.com/live/tvlatinamontero/index.m3u8
 
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/sgs11tT4/pat.png" group-title="OTROS PAÍSES", PAT
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/playlist.m3u8
-
-#EXTINF:-439 tvg-logo="https://i.postimg.cc/BQD1j544/boliviatv.jpg" group-title="OTROS PAÍSES", BOLIVIA TV
-https://5f2c1b0d880e5.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDIxIDEyOjQ0OjI5IEFNJmhhc2hfdmFsdWU9dGpDbXZnbSsrWS83aXExdDMrc1ZVUT09JnZhbGlkbWludXRlcz01MCZpZD0=
-
-#EXTINF:-439 tvg-logo="https://i.postimg.cc/kGPnVpQm/fujitv.png" group-title="OTROS PAÍSES", FUJI TV
-https://fujitv.mov3.co/hls/fujitv.m3u8
