@@ -854,26 +854,14 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 #EXTINF:-152 tvg-logo="https://i.postimg.cc/5yK43XBF/fashiontv.png" group-title="ESTILO DE VIDA", FASHION TV NEW YORK
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/chunklist_b2878000_t64RGVmYXVsdA==.m3u8
 
-#EXTINF:-174 tvg-logo="https://i.postimg.cc/sftyNStn/esne.png" group-title="CATÓLICO", ESNE TV
-https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=601202c295243c00016e587f&dw=10800&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1611879490%7Eacl%3D%2F*%4044045%2F*%7Ehmac%3D2637aa9afeaaf6b7163d50dbbd0ba206060910b1237ff724e144268c8273c289
-
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/wj2CgsGY/orbe21.png" group-title="CATÓLICO", ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
-
-#EXTINF:-175 tvg-logo="https://i.postimg.cc/dtfRhd5K/tvfamilia.png" group-title="CATÓLICO", TV FAMILIA
-https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
-
-#EXTINF:-175 tvg-logo="https://i.postimg.cc/WbSgjFH0/mvc.png" group-title="EVANGÉLICO", MI VIÑA CHANNEL
-https://5b50404ec5e4c.streamlock.net/8056/smil:8056.smil/playlist.m3u8
 
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/wxXbX21H/logostv.png" group-title="EVANGÉLICO", LOGOS TV
 https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/wxXbX21H/logostv.png" group-title="EVANGÉLICO", LOGOS TV SALUD
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
-
-#EXTINF:-175 tvg-logo="https://i.postimg.cc/wxXbX21H/logostv.png" group-title="EVANGÉLICO", LOGOS TV ESTUDIO
-https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
 
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/HxZnRXxL/cbnes.jpg" group-title="EVANGÉLICO", CBN ESPAÑOL
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_1200_av-p.m3u8
@@ -928,9 +916,6 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/d02366Hc/xamatv.png" group-title="ARGENTINA", XAMA TV
 https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
-
-#EXTINF:-200 tvg-logo="https://i.postimg.cc/85s8cPrX/fenixtv.jpg" group-title="ARGENTINA", FÉNIX TV
-https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 
 #EXTINF:-202 tvg-logo="https://i.postimg.cc/c4fJ0XWg/cincotv.png" group-title="ARGENTINA", CINCO TV TIGRE
 https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1461023046.m3u8
@@ -1001,9 +986,6 @@ https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 #EXTINF:-219 tvg-logo="https://i.postimg.cc/nzqdX9qQ/catamarca-tv.png" group-title="ARGENTINA", CATAMARCA TV
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
 
-#EXTINF:-219 tvg-logo="https://i.postimg.cc/v84YNW5v/c20.jpg" group-title="ARGENTINA", CANAL 20 VILLAMARÍA
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
-
 #EXTINF:-220 tvg-logo="https://i.postimg.cc/7LYN7Knb/c5sf1.png" group-title="ARGENTINA", CANAL 5 SANTA FÉ
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
@@ -1039,9 +1021,6 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
 #EXTINF:-270 tvg-logo="https://i.postimg.cc/d0YGm4RG/26tv.png" Group-title="NOTICIAS", CANAL 26 TV
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-
-#EXTINF:-272 tvg-logo="https://i.postimg.cc/43xSZ6nk/cnnchile.png" group-title="NOTICIAS", CNN CHILE
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
 #EXTINF:-290 tvg-logo="https://i.postimg.cc/ZRnY9sKT/HISPANTV.jpg" group-title="NOTICIAS", HISPAN TV
 https://live.presstv.com/live/smil:live.smil/chunklist_w1703495832_b644100_slen.m3u8
@@ -1081,6 +1060,9 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 #EXTINF:-403 tvg-logo="https://i.postimg.cc/q78XMCsL/melodychannel.png" group-title="MÚSICA", MELODY CHANNEL
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
+
+
+
 
 #EXTINF:-403 tvg-logo="https://i.postimg.cc/6Qm2KWS0/telemusica.png" group-title="MÚSICA", TELEMÚSICA
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/chunklist_b1398304.m3u8
