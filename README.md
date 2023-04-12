@@ -1,4 +1,3 @@
-
 #EXTINF:-1 tvg-id="" tvg-name="6 Underground (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSFGJS0PyqZqZtuDnIYHybmo4iD.jpg" group-title="VOD | ITALIAN",6 Underground (2019)
 http://mosolin.top:8080/movie/121671620766848065/881671620766848/54714.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Acceleration (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fk0FRTV0inxHVh94yQCgR0Wu8a9.jpg" group-title="VOD | ITALIAN",Acceleration (2019)
